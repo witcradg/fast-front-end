@@ -36,3 +36,8 @@ Starters are boilerplate projects that Gatsby developers can use to set up a new
 
 #### Gatsby Themes
 https://www.gatsbyjs.com/blog/2018-11-11-introducing-gatsby-themes/
+
+#### Diary
+Started working with bit.dev - The whole thing seems a bit convoluted to me. The process is not simple to create and reuse components and the whole thing seems to me like I might be just able to create a library of my components for reuse. HOWEVER... The idea of being able to pull off the shelf solutions to components created by others is simply TOO tempting and forces me to dig deeper.
+
+I have started with the first Tutorial and had SOME progress, but some errors too. In the end I was able to get something saved, but the saved version was not viewable (errors) in the associated Playground. Currently working on the use of the component I created with the tutorial and adding it to a brand new create-react-app project.
